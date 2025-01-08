@@ -24,7 +24,7 @@ Modern ve kullanıcı dostu bir renk paleti oluşturma aracı. Tasarımcılar ve
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/color-palette-generator.git
+git clone https://github.com/Gurkayx/color-palette-generator.git
 cd color-palette-generator
 ```
 
